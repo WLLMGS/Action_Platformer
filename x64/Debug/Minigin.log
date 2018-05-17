@@ -1,0 +1,23 @@
+﻿  FpsCounterPrefab.cpp
+  GameObject.cpp
+  Logger.cpp
+  MiniginGame.cpp
+  ResourceManager.cpp
+  Scene.cpp
+  SpriteComponent.cpp
+  TextComponent.cpp
+  Generating Code...
+Minigin.obj : warning LNK4221: This object file does not define any previously undefined public symbols, so it will not be used by any link operation that consumes this library
+  Minigin.vcxproj -> D:\Game Projects\Minigin\x64\Debug\Minigin.lib
+  D:\Game Projects\Minigin\3rdParty\SDL2\lib\x64\SDL2.dll
+  1 File(s) copied
+  D:\Game Projects\Minigin\3rdParty\SDL2_image\lib\x64\libjpeg-9.dll
+  D:\Game Projects\Minigin\3rdParty\SDL2_image\lib\x64\libpng16-16.dll
+  D:\Game Projects\Minigin\3rdParty\SDL2_image\lib\x64\libtiff-5.dll
+  D:\Game Projects\Minigin\3rdParty\SDL2_image\lib\x64\libwebp-7.dll
+  D:\Game Projects\Minigin\3rdParty\SDL2_image\lib\x64\SDL2_image.dll
+  D:\Game Projects\Minigin\3rdParty\SDL2_image\lib\x64\zlib1.dll
+  6 File(s) copied
+  D:\Game Projects\Minigin\3rdParty\SDL2_ttf\lib\x64\libfreetype-6.dll
+  D:\Game Projects\Minigin\3rdParty\SDL2_ttf\lib\x64\SDL2_ttf.dll
+  2 File(s) copied
